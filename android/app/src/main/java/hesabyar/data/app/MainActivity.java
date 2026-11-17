@@ -1,4 +1,4 @@
-package ir.hajmsanj.app;
+package hesabyar.data.app;
 
 import com.getcapacitor.BridgeActivity;
 

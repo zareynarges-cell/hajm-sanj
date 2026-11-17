@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace = "ir.hajmsanj.app"
+    namespace = "hesabyar.data.app"
     compileSdk = rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "ir.hajmsanj.app"
+        applicationId "hesabyar.data.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

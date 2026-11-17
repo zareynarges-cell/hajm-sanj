@@ -24,6 +24,6 @@ npm run android:open     # باز شدن پروژه در Android Studio
 1. **لوگوی اصلی:** فایل `src/assets/brand.png` فعلاً از اسکرین‌شات بریده شده و کیفیتش پایین است.
    فایل PNG اصلی را جایگزینش کنید (و همان را برای آیکون برنامه هم بگذارید: `assets/icon-only.png`، حداقل ۱۰۲۴×۱۰۲۴).
 2. ساخت دوباره‌ی آیکون‌ها: `npm run android:icons`
-3. شناسه‌ی برنامه (`appId`) در `capacitor.config.ts` است (فعلاً `ir.hajmsanj.app`). قبل از اولین انتشار به مقدار یکتای خودتان تغییر بدهید؛ بعد از انتشار دیگر نباید عوض شود.
+3. شناسه‌ی برنامه (`appId`) در `capacitor.config.ts` است (فعلاً `hesabyar.data.app`). قبل از اولین انتشار به مقدار یکتای خودتان تغییر بدهید؛ بعد از انتشار دیگر نباید عوض شود.
 4. نسخه‌ی برنامه: `versionCode` و `versionName` در `android/app/build.gradle` (با هر انتشار جدید `versionCode` را زیاد کنید).
 5. بعد از هر تغییر در کد وب: `npm run android:sync` و بیلد دوباره.

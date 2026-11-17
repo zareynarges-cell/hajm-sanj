@@ -2,6 +2,6 @@
 <resources>
     <string name="app_name">حجم‌سنج</string>
     <string name="title_activity_main">حجم‌سنج</string>
-    <string name="package_name">ir.hajmsanj.app</string>
-    <string name="custom_url_scheme">ir.hajmsanj.app</string>
+    <string name="package_name">hesabyar.data.app</string>
+    <string name="custom_url_scheme">hesabyar.data.app</string>
 </resources>

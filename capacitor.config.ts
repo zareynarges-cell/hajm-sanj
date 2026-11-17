@@ -1,7 +1,7 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'ir.hajmsanj.app',
+  appId: 'hesabyar.data.app',
   appName: 'حجم‌سنج',
   webDir: 'dist',
   android: { allowMixedContent: false },
