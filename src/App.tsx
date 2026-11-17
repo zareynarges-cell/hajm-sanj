@@ -440,7 +440,7 @@ function Brand({ dark = false }: { dark?: boolean }) {
     <div className="flex items-center gap-3">
       <img src={BRAND_ICON} alt="" className="size-12 shrink-0 rounded-[14px] object-contain drop-shadow-md" />
       <div>
-        <strong className={`block text-sm font-black ${dark ? 'text-[#211b52]' : 'text-white'}`}>حجم‌سنج</strong>
+        <strong className={`block text-sm font-black ${dark ? 'text-[#211b52]' : 'text-white'}`}>حساب‌یار دیتا</strong>
         <span className={`block text-[11px] ${dark ? 'text-[#686480]' : 'text-white/45'}`}>ابزار دقیق داده</span>
       </div>
     </div>
